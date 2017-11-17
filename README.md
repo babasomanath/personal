@@ -35,13 +35,14 @@ If we analyze all the sacred texts of Indian legends then it is legitimate to co
 --------- I have a fantastic Song for you  --------------
 Adi Shakti is regarded as the one who can control all the nine planets. She divides herself to Material Shakti i.e. Durga who splits herself to operate nine planets to maintain cosmic order, Vidya Shakti i.e. Kali as source for 10 incarnations of Lord Vishnu and Maya Shakti, to delude the beings to illusion and also promotes the beings to Ultimate God. As Durga Shakti She is the one who splits herself to NavaDurga provides direction and energy to all planets.
 
-Sun is Governed by Kushmanda Shakti.
-Mahagauri operates Rahu.
-Kaalratri governs Shani.
-Ketu is governed by Goddess Siddhidaatri.
-Provider of Knowledge i.e. Bhrasapati is governed by Goddess Katyayini
-Provider of All Fortunes i.e. Mangal is governed by Goddess Brahmacharini
-The effect of moon is overcome by Goddess Shailaputri
-Budh Planet is governed by Goddess Skandamata
-Shukra Planet is operated by Goddess Chandraghanta
+#Sun is Governed by Kushmanda Shakti.
+#Mahagauri operates Rahu.
+#Kaalratri governs Shani.
+#Ketu is governed by Goddess Siddhidaatri.
+#Provider of Knowledge i.e. Bhrasapati is governed by Goddess Katyayini
+#Provider of All Fortunes i.e. Mangal is governed by Goddess Brahmacharini
+#The effect of moon is overcome by Goddess Shailaputri
+#Budh Planet is governed by Goddess Skandamata
+#Shukra Planet is operated by Goddess Chandraghanta
+
 By this contrast Goddess Adi Shakti controls Nava Graha. Worshipping the nine goddess in Navaratri or Nine nights of mataji, saves you from dangerous effects of planets.
