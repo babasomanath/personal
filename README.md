@@ -1,1 +1,1 @@
-https://www.pothys.com/orissa-silk-sarees-ori055.html/
+https://www.pothys.com/casual-wear-oviya-cw7004.html/
