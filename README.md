@@ -1,1 +1,23 @@
-When it came into being, the sprawling circular market was the largest of its kind in India. The British believed that the horseshoe-shaped market would prove lucky for the shoppers and the shopkeepers both. This market has two circles. The Inner Circle consists of Blocks A to F. The important shops and showrooms here include Adidas Originals, Allen Solly, Bentley, Bon Ton, Cantabil, Gas, Johnson Watch Company, Kalpana, Lee, Louis Philippe, Neelkanth Jewellers, Nike, Orra, Park Avenue, Pepe, Proline and Fila, Roopchand Jewellers, Snowhite Square, Wills Lifestyle. Mohanlal Sons promises to give you ready or tailored attires to suit every occasion. Known for its quality and good service, you will find here a wide range of shirts, trousers, jackets, suits, kurtas and sherwanis. The Outer Circle consists of Blocks G to P. Showrooms like Digjam, Lacoste, Omega, Rado, RL Exports and TAG Heuer lie in this circle.
+These are Delhi's Major Shopping hubs
+
+Old Delhi Shopping
+Connaught Place
+Palika Bazaar
+Janpath
+Baba Kharak Singh Marg
+Paharganj
+Karol Bagh
+Kamla Nagar
+Tibetan Market
+South Extension
+Ansal Plaza
+Greater Kailash
+Saket
+Khan Market
+Sarojini Nagar
+INA Market
+Nehru Place
+Lajpat Nagar
+Hauz Khas
+Vasant Vihar/Vasant Kunj
+Dilli Haat
