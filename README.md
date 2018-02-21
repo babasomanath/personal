@@ -1,8 +1,8 @@
-South Extension
-At Frontier Raas, you will find an astounding collection of bridal wear. All the lehengas have intricate work matching or perhaps even outdoing the designer ones you saw at designer showrooms; and so is the price. The shop, like all others in this market, is ideal for you if your budget is upwards of Rs 60-70k. Fronteir Raas also has an excellent collection of bridal gowns for your wedding and other wedding functions like engagement, cocktail, etc.
+Karol Bagh (Name of the Place) -- Close to Connaught Place -- Rank 1 for Bridal Shopping
 
-From CP to Frontier Raas : https://tinyurl.com/ybt8b8d7
+Ajmal Khan Road (Name of the place in Karol Bagh) has been the mecca for shopping for wedding clothes for years. 
 
-Website : www.frontierraas.com
-Pinterest: https://www.pinterest.co.uk/pin/138063544799988901/
-Instagram: https://www.instagram.com/frontierraas/
+Although once popular for being reasonably priced, today it has shops selling exquisite bridal pieces costing lakhs of rupees. 
+“We have good choices of lehengas starting from Rs. 8000 but the work is not that detailed. A good bridal lehenga starts from Rs. 25000 and goes up to Rs. 3.5 lakhs,” says the shopkeeper at New Handloom Emporium (name of the shop). 
+
+Then you have Meena Bazaar, Satya Paul, Frontier Raas (Mentioned Above) and Frontier Bazaar offering gorgeous bridal collections. Check out Chabra 555 for an elaborate range of options from all states of the country.
