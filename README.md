@@ -1,18 +1,16 @@
-Karol Bagh (Name of the Place) -- Close to Connaught Place (7 Kms only) -- Rank 1 for Bridal Shopping
+Lajpat Nagar (Name of the Place) 
+{ Almost 12 KM from Connaught Place } 
+Lajpat Nagar is near South Extension {4.5 KM}
+Libas is there and a famous brand for wedding collections.
+https://thedelhibride.com/tag/lajpat-nagar/
 
-Ajmal Khan Road (Name of the place in Karol Bagh) has been the mecca for shopping for wedding clothes for years. 
+http://www.bazargenie.com/5-shops-absolutely-need-check-traditional-wear/
 
-Although once popular for being reasonably priced, today it has shops selling exquisite bridal pieces costing lakhs of rupees. 
-“We have good choices of lehengas starting from Rs. 8000 but the work is not that detailed. A good bridal lehenga starts from Rs. 25000 and goes up to Rs. 3.5 lakhs,” says the shopkeeper at New Handloom Emporium (name of the shop). 
+You are likely to be in this market for some or other wedding shopping. 
 
-Then you have Meena Bazaar, Satya Paul, Frontier Raas (Mentioned Above) and Frontier Bazaar offering gorgeous bridal collections. Check out Chabra 555 for an elaborate range of options from all states of the country.
+This market has it all. For bridal lehenga, it has options like Libas. 
 
+“Our USP is the quality of products and great designs that appease NRIs and overseas markets too,” says Purshotam Keswani, co-owner, Libas. 
 
-Direction From CP to KB : https://tinyurl.com/yax7cvn4
-  
+Others offering a good variety are Malhotra’s, Shakutalam and CTC Plaza. The price range starts from Rs. 40,000. If you are looking for something in lower price, check out Rudrakshi. And, this market has its fair share of designer stores as well. Check out Kapil & Mmonika’s store, near the Lajpat Nagar metro station, if you are looking for heavy stuff.
 
-Read this please :
-http://www.zakoopi.com/articles/where-to-shop-for-bridal-lehengas-in-karol-bagh
-https://weddingz.in/blog/top-bridal-wear-stores-in-karol-bagh-delhi/
-
-You will definitely have an idea.
