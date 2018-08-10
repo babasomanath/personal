@@ -27,3 +27,5 @@ Doc: http://homepages.abdn.ac.uk/advaith/pages/teaching/abdn.only/AIS/lectures/a
 Naive Bayes Classifier : http://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/
 
 Classification Clustering Algos: http://dataaspirant.com/2016/09/24/classification-clustering-alogrithms/
+
+Spark MLib/Naive Bayes (Python) : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/3783546674231736/4413065072037724/latest.html
