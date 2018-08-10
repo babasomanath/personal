@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=FgGjc5oabrA
 
 
 Doc: http://homepages.abdn.ac.uk/advaith/pages/teaching/abdn.only/AIS/lectures/abdn.only/CollaborativeFiltering.pdf
+
+Naive Bayes Classifier : http://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/
+Classification Clustering Algos: http://dataaspirant.com/2016/09/24/classification-clustering-alogrithms/
