@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=2uxXPzm-7FY
 https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 https://www.youtube.com/watch?v=FgGjc5oabrA
+
+
+Doc: http://homepages.abdn.ac.uk/advaith/pages/teaching/abdn.only/AIS/lectures/abdn.only/CollaborativeFiltering.pdf
