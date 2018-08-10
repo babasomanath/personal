@@ -1,5 +1,10 @@
 1
 
+4 videos are there:
+
+https://www.coursera.org/lecture/machine-learning-applications-big-data/recsys-ials-i-l9GP3
+
+
 https://www.coursera.org/lecture/machine-learning/content-based-recommendations-uG59z
 
 https://www.coursera.org/lecture/machine-learning/collaborative-filtering-2WoBV
