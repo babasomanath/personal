@@ -8,3 +8,5 @@ https://www.coursera.org/lecture/machine-learning-applications-big-data/recommen
 
 
 https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+
+https://www.youtube.com/watch?v=FgGjc5oabrA
