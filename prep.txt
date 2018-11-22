@@ -1,0 +1,57 @@
+------------------------------
+SSH Troubleshooting :https://confluence.atlassian.com/bitbucket/troubleshoot-ssh-issues-271943403.html
+Memory Management System : https://www.geeksforgeeks.org/operating-system-requirements-of-memory-management-system/
+						http://www2.latech.edu/~box/os/ch08.pdf
+Operating System memory allocation Technique : https://www.geeksforgeeks.org/operating-system-buddy-system-memory-allocation-technique/
+Semaphores in Operating System: https://www.geeksforgeeks.org/semaphores-operating-system/
+Operating System Unix File System : https://www.geeksforgeeks.org/operating-system-unix-file-system/
+Dining Philosopher Problem : https://www.geeksforgeeks.org/operating-system-dining-philosopher-problem-using-semaphores/
+Kernel I/O Subsystem: https://www.geeksforgeeks.org/operating-system-kernel-i-o-subsystem-i-o-system/
+OS System Calls : https://www.geeksforgeeks.org/operating-system-introduction-system-call/
+Sleeping Barber Problem : https://www.geeksforgeeks.org/operating-system-sleeping-barber-problem/
+
+------------------------------
+Diff: What is internet and what is web ?
+	https://www.geeksforgeeks.org/whats-difference-internet-web/
+Network Topologies :https://www.geeksforgeeks.org/network-topologies-computer-networks/
+TCP/IP Model : https://www.geeksforgeeks.org/computer-network-tcpip-model/
+Important: TCP Flags:  https://www.geeksforgeeks.org/computer-network-tcp-flags/
+Important: TCP Handshakes: https://www.geeksforgeeks.org/computer-network-tcp-3-way-handshake-process/
+VLAN :https://www.geeksforgeeks.org/virtual-lan-vlan/
+Collision Detection in CSMA/CD : https://www.geeksforgeeks.org/collision-detection-csmacd/
+Difference between Byte stuffing and Bit stuffing :https://www.geeksforgeeks.org/computer-network-difference-byte-stuffing-bit-stuffing/
+MAC Filtering : https://www.geeksforgeeks.org/computer-network-mac-filtering/
+Most Important : IP V6: https://www.geeksforgeeks.org/internet-protocol-v6-ipv6/
+Difference Between IPV4 and IPV6 ?
+Internet Protocol version 6 (IPv6) Header : https://www.geeksforgeeks.org/computer-network-internet-protocol-version-6-ipv6-header/
+Important: ICMP : https://www.geeksforgeeks.org/internet-control-message-protocol-icmp/
+Important: NAT : https://www.geeksforgeeks.org/computer-network-network-address-translation-nat/
+Important: Types of NAT : https://www.geeksforgeeks.org/computer-network-types-network-address-translation-nat/
+Important: VRRP : https://www.geeksforgeeks.org/vrrpvirtual-router-redundancy-protocol-introduction-configuration/
+Important: ARP, Reverse ARP(RARP), Inverse ARP(InARP), Proxy ARP and Gratuitous ARP : https://www.geeksforgeeks.org/computer-network-arp-reverse-arprarp-inverse-arpinarp-proxy-arp-gratuitous-arp/
+Important: What’s difference between Ping and Traceroute? https://www.geeksforgeeks.org/whats-difference-between-ping-and-traceroute/
+Important: ACl :https://www.geeksforgeeks.org/computer-network-access-lists-acl/
+Important: SMTP : https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/
+Important: DNS: https://www.geeksforgeeks.org/dns-domain-name-server/
+			https://www.geeksforgeeks.org/address-resolution-dns/
+			https://www.geeksforgeeks.org/computer-network-dns-spoofing-dns-cache-poisoning/
+			
+Most Important: https://www.geeksforgeeks.org/why-does-dns-use-udp-and-not-tcp/
+
+Diff http and https: https://www.geeksforgeeks.org/whats-difference-http-https/
+Diff: HTML and HTTP : https://www.geeksforgeeks.org/whats-difference-html-http/
+What is Local Host : https://www.geeksforgeeks.org/computer-network-what-is-local-host/
+
+Important: DHCP : https://www.geeksforgeeks.org/computer-network-dynamic-host-configuration-protocol-dhcp/
+			https://www.geeksforgeeks.org/computer-network-dhcp-relay-agent/
+			https://www.geeksforgeeks.org/how-dhcp-server-dynamically-assigns-ip-address-to-a-host/
+			
+		Please READ the below topics and prepare well:
+Virtualization :https://www.geeksforgeeks.org/virtualization-cloud-computing-types/
+				https://www.geeksforgeeks.org/virtualization-a-machine-reference-model/
+				https://www.geeksforgeeks.org/cloud-computing-characteristics-of-virtualization/
+       Very important :https://www.geeksforgeeks.org/computer-network-types-server-virtualization/
+		Read and just grab the basics : https://www.geeksforgeeks.org/linux-virtualization-resource-throttling-using-cgroups/
+		  https://www.geeksforgeeks.org/linux-virtualization-linux-containers-lxc/
+
+------------------------------
