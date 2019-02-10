@@ -48,21 +48,3 @@ https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn
 
 Multi Class Text Classification with Pyspark
 https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
-
-
-
-Hello Nutan,
-
-Thanks for your time to speak with me regarding my compensation.
-
-As you know, I started at Virtusa in Sep'2017 and came on board at a salary that was slightly low in the pay band, with the understanding that we would revisit my pay at review time. Since then, of course, we’ve all been too busy to think much about anything but hitting our deadlines. I have greatly enjoyed working at Virtusa since Sep'2017. 
-In these years, I have become an integral member of the team, and have developed innovative ways to contribute to the company. Along with that I have done presales activities to make more revenue and profit too. 
-The team is now very strong in terms of technology and deliverables due to the trainings and practices offered by me. I have helped the senior management to follow new and innovative ways to attract our clients through cloud technologies and building AI products. In these years, I have developed few utilities to solve critical problems of the client and we have leaped to the next level of trust through our work.
-Over the past years, I’ve always exceeded my own goals without missing a single deadline. I’ve also continued developing my skillset, taking classes in AI prod development.
-I believe I have gone above and beyond the benchmarks we set for my position when I joined Virtusa in Sep 2017.
-I appreciate the opportunity to speak with you to discuss increasing my salary so that it is commensurate with my current performance. 
-As per the market research, this position and these responsibilities demand a salary of at least 130K euros per annum, which is 41% more than my current salary. I request a pay raise of fifteen percent, which I believe reflects both my current competencies and industry averages.
-Once again, I am grateful to be a member of this esteemed organization, and I enjoy taking on assignments that allow me to contribute to the company.
-
-Thanks and Best Regards
-Somanath Nanda
